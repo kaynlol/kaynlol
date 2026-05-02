@@ -12,6 +12,6 @@
 ㅤ $${\color{#e57969}ahri,}$$ $${\color{#DF9979}xayah,}$$ $${\color{#DEA680}rakan,}$$ $${\color{#DCB487}and}$$ $${\color{#DABE8C}sett}$$ $${\color{#D8C590}hypersharing}$$ $${\color{#D7CF95}yume}$$ ㅤ
 </p>
 <p align="center">
-ㅤ $${\color{#e57969}jungle}$$ $${\color{#DF9979}main}$$ $${\color{#DEA680}+}$$ $${\color{#DCB487}support}$$ $${\color{#DABE8C}and}$$ $${\color{#D8C590}adc}$$ $${\color{#D7CF95}player}$$ ㅤㅤ $${\color{#e2e3c8}NA}$$ $${\color{#e2e3c8}only}$$ ㅤ
+ㅤ $${\color{#e57969}jungle}$$ $${\color{#DF9979}main}$$ $${\color{#DEA680}+}$$ $${\color{#DCB487}support}$$ $${\color{#DABE8C}and}$$ $${\color{#D8C590}adc}$$ $${\color{#D7CF95}player}$$ ㅤㅤ $${\color{#91628C}NA}$$ $${\color{#844D8A}only}$$ ㅤ
 </p>
 ㅤ
