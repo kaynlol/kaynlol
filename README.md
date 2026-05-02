@@ -5,7 +5,7 @@
 ㅤ $${\color{#e2e3c8}`'}$$ $${\color{#844D8A}i}$$ $${\color{#91628C}wont}$$ $${\color{#9C758E}deny}$$ $${\color{#A68690}i've}$$ $${\color{#B39C92}got}$$ $${\color{#BCAB94}in}$$ $${\color{#C5BA95}my}$$ $${\color{#CDC896}mind}$$ $${\color{#D7CF95}now,}$$ $${\color{#D8C590}all}$$ $${\color{#DABE8C}the}$$ $${\color{#DCB487}things}$$ $${\color{#DEA680}i}$$ $${\color{#DF9979}would}$$ $${\color{#E28E74}do}$$ $${\color{#e2e3c8}'`}$$ ㅤ</br>
 </p>
 <p align="center">
-ㅤ $${\color{#dedcb1}`'}$$ $${\color{#844D8A}so}$$ $${\color{#91628C}i}$$ $${\color{#9C758E}try}$$ $${\color{#A68690}to}$$ $${\color{#B39C92}talk}$$ $${\color{#BCAB94}refined}$$ $${\color{#C5BA95}for}$$ $${\color{#CDC896}fear}$$ $${\color{#D7CF95}that}$$ $${\color{#D7CF95}you}$$ $${\color{#D8C590}find}$$ $${\color{#DABE8C}out}$$ $${\color{#DCB487}how}$$ $${\color{#DEA680}i'm}$$ $${\color{#DF9979}imaginin'}$$ $${\color{#E28E74}you}$$ $${\color{#dedcb1}'`}$$ ㅤ</br>
+ㅤ $${\color{#e2e3c8}`'}$$ $${\color{#844D8A}so}$$ $${\color{#91628C}i}$$ $${\color{#9C758E}try}$$ $${\color{#A68690}to}$$ $${\color{#B39C92}talk}$$ $${\color{#BCAB94}refined}$$ $${\color{#C5BA95}for}$$ $${\color{#CDC896}fear}$$ $${\color{#D7CF95}that}$$ $${\color{#D7CF95}you}$$ $${\color{#D8C590}find}$$ $${\color{#DABE8C}out}$$ $${\color{#DCB487}how}$$ $${\color{#DEA680}i'm}$$ $${\color{#DF9979}imaginin'}$$ $${\color{#E28E74}you}$$ $${\color{#e2e3c8}'`}$$ ㅤ</br>
 </p>
 ㅤ
 <p align="center">
